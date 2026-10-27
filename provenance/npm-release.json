@@ -1,0 +1,17 @@
+{
+  "package": "NeteaseCloudMusicApi",
+  "version": "4.32.0",
+  "author": {
+    "name": "binaryify"
+  },
+  "license": "MIT",
+  "registry_metadata": "https://registry.npmjs.org/NeteaseCloudMusicApi/4.32.0",
+  "tarball": "https://registry.npmjs.org/NeteaseCloudMusicApi/-/NeteaseCloudMusicApi-4.32.0.tgz",
+  "integrity": "sha512-yRDwpMcLZnOSkmR/flEpGEJpufNxOQVILb2+2mnSrKPZp/3PbIo2uIOuTa3SjGaAtK3dUKJdQBTkOn0POKDa+A==",
+  "gitHead": "4d63e5562199115915f2ee855460ef8999873b53",
+  "archive_sha256": "4a1a01856703b33292208e51bef8ca780477edd29e7542a29965a248dd95ca4d",
+  "file_count": 425,
+  "unpacked_bytes": 8624004,
+  "retrieved_at": "2026-10-27T02:46:42.463858+00:00",
+  "note": "Original npm release, not the original Git repository or full commit history."
+}

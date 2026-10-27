@@ -1,0 +1,38 @@
+# Installed dependencies and generated output
+node_modules/
+coverage/
+.nyc_output/
+.cache/
+.npm/
+dist/
+build/
+*.tsbuildinfo
+
+# Local configuration; the template is intentionally public
+.env
+.env.*
+!.env.example
+
+# Runtime data and authentication material
+anonymous_token
+cookie.txt
+cookies.txt
+*.cookie
+*.cookies
+cookies/
+credentials/
+*.pem
+*.key
+*.p12
+*.pfx
+logs/
+*.log
+tmp/
+temp/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*~

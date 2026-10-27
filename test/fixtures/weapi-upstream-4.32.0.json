@@ -1,0 +1,25 @@
+{
+  "payload": {
+    "keywords": "offline-restore-fixture",
+    "type": 2000,
+    "limit": 5,
+    "offset": 0
+  },
+  "samples": [
+    {
+      "random": 0,
+      "params": "aFriHqSWKWp8acC+C/ATeYQffkqcGdLFbTdm+pjq3bY8kY+Q2aD5YQuEbiNM1eKmyNpM+mLjGXLCJT5UHYoEzEgUd74UTNnSlf2bzaZh6+BWKAUOCLdNrI+8aBDYzt/IzhYL6HVpx9udFGaFcc7B4g==",
+      "encSecKey": "d473b9eca232f1b4090dd606b0df86de318748dd2eec307e4ed4345030fc4ee30331e598f41d5a6f5befaab94630ea1a1eda7cfade84fbec1a907913d2e4d2c8744bc572b99a050075e075b4537f645ecfa994f95906c32818e076aeda6bdb906bfa0bb96c4cf4bc3ed6d9ab76cf08441153d9d85e1ea3d78fa8d9210d581cee"
+    },
+    {
+      "random": 0.5,
+      "params": "eZBcgy80lx052IXWdZkqbIZwBf+/mLmqvE2kE9pfsdwZ+MXXpWgsEA6s88H+FiNI+a3bwTQXVq73KRyIeMEG2OBGjmKkuZrj15Ezv9xcUh9JLuzqqR+fSp0HwFNt/iiyfMSXSRwMoKge7zLdkLyTKA==",
+      "encSecKey": "257348aecb5e556c066de214e531faadd1c55d814f9be95fd06d6bff9f4c7a41f831f6394d5a3fd2e3881736d94a02ca919d952872e7d0a50ebfa1769a7a62d512f5f1ca21aec60bc3819a9c3ffca5eca9a0dba6d6f7249b06f5965ecfff3695b54e1c28f3f624750ed39e7de08fc8493242e26dbc4484a01c76f739e135637c"
+    },
+    {
+      "random": 1,
+      "params": "68BGbfRvDAZDkhEApsdEzmU3WkG/3IwcCbQ/xHZRgeicmfQG8BIdRpZr3DWCXPctFjUaJ/37iqzAKipirpEruvmFh9+mpbEsLiPQUnqD5RQaglmQ9DJCgeaJ2jCI36+tyPTbwWCWJEiYkwARI4PBFA==",
+      "encSecKey": "d772ace19cac89d6f896749fc8dc9473cd2fe7cf136f722a150a2fcb9cb086839b9e83f87478f0d9f8c2ac0ab949b418c52c2098c54381f1485e2ae5b27c8bdcaa610b02d6e3bfc7f36b4c8bf0f097ac58d07c84c1654910bb8e175eafe67031ebbdc349a03d466c536a24e2e427f5e038c10bab4ff0678ec09667647a13069b"
+    }
+  ]
+}

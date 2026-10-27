@@ -1,0 +1,38 @@
+{
+  "name": "netease-cloud-music-api-restored",
+  "version": "4.32.0-restored.1",
+  "description": "Attributed restoration of Binaryify's NeteaseCloudMusicApi npm 4.32.0 source release",
+  "main": "main.js",
+  "types": "interface.d.ts",
+  "bin": { "ncm-api-restored": "app.js" },
+  "scripts": {
+    "start": "node app.js",
+    "test": "node --test test/*.test.cjs",
+    "smoke:public": "node scripts/smoke-public.cjs",
+    "verify:source": "node scripts/verify-source.cjs",
+    "check": "node --check app.js && node --check server.js && node --check main.js"
+  },
+  "engines": { "node": ">=22" },
+  "license": "MIT",
+  "author": "Binaryify (original project)",
+  "contributors": ["CidneyAurum (source restoration and maintenance)"],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CidneyAurum/NeteaseCloudMusicApi-Restored.git"
+  },
+  "bugs": { "url": "https://github.com/CidneyAurum/NeteaseCloudMusicApi-Restored/issues" },
+  "homepage": "https://github.com/CidneyAurum/NeteaseCloudMusicApi-Restored#readme",
+  "keywords": ["netease", "music", "api", "restoration"],
+  "files": [
+    "app.js", "main.js", "server.js", "generateConfig.js", "interface.d.ts",
+    "module", "util", "plugins", "public", "data", "provenance", "docs", "NOTICE.md", "LICENSE"
+  ],
+  "dependencies": {
+    "axios": "^1.12.0", "crypto-js": "^4.2.0", "express": "^4.21.2",
+    "express-fileupload": "^1.5.2", "md5": "^2.3.0", "music-metadata": "^11.16.0",
+    "pac-proxy-agent": "^7.0.0", "qrcode": "^1.5.4",
+    "safe-decode-uri-component": "^1.2.1", "tunnel": "^0.0.6",
+    "xml2js": "^0.6.2", "yargs": "^17.7.2"
+  },
+  "overrides": { "get-uri": { "basic-ftp": "6.2.1" } }
+}
